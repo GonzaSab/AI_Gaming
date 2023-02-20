@@ -82,3 +82,5 @@ try:
 except Exception as e:
     # Handle any exceptions that occur during the API request
     print("Error: {}".format(str(e)))
+
+#Funtion that generates a Dall-e request
